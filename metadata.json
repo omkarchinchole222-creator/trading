@@ -1,0 +1,6 @@
+{
+  "name": "NSE & BSE Stock Screener & AI Opportunity Analyzer",
+  "description": "Technical scanner and AI opportunity analyzer for NSE and BSE equities with real-time indicators, momentum scoring, candlestick pattern detection, and automated trading sheet generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
